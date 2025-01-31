@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">ComputerStore</string>
+    <string name="product1_name">Apple iPhone 14 Pro 512GB Gold</string>
+    <string name="product1_price">$1437</string>
+    <string name="product2_name">Apple iPhone 12 128GB White</string>
+    <string name="product2_price">$510</string>
+    <string name="product3_name">Apple iPhone 11 128GB White</string>
+    <string name="product3_price">$550</string>
+    <string name="product4_name">Apple iPhone 13 Pro 1TB Gold</string>
+    <string name="product4_price">$1499</string>
+
+    <string name="phone1_name">Samsung Galaxy S23 Ultra</string>
+    <string name="phone1_price">$1199</string>
+    <string name="phone2_name">Google Pixel 7 Pro</string>
+    <string name="phone2_price">$899</string>
+    <string name="phone3_name">OnePlus 11</string>
+    <string name="phone3_price">$799</string>
+    <string name="phone4_name">Xiaomi 13 Pro</string>
+    <string name="phone4_price">$999</string>
+    <string name="phone5_name">Sony Xperia 1 IV</string>
+    <string name="phone5_price">$1299</string>
+    <string name="phone6_name">Asus ROG Phone 7</string>
+    <string name="phone6_price">$1099</string>
+    <string name="phone7_name">Samsung Galaxy Z Fold 4</string>
+    <string name="phone7_price">$1799</string>
+    <string name="phone8_name">iPhone SE (2022) 128GB</string>
+    <string name="phone8_price">$429</string>
+    <string name="phone9_name">Google Pixel 6a</string>
+    <string name="phone9_price">$449</string>
+    <string name="phone10_name">Motorola Edge+ (2023)</string>
+    <string name="phone10_price">$999</string>
+    <string name="phone11_name">Nokia X30 5G</string>
+    <string name="phone11_price">$599</string>
+    <string name="phone12_name">Realme GT 3</string>
+    <string name="phone12_price">$699</string>
+
+    <!-- MacBooks -->
+    <!-- MacBooks -->
+    <string name="macbook1_name">MacBook Air M2 256GB Silver</string>
+    <string name="macbook1_price">$1099</string>
+    <string name="macbook2_name">MacBook Pro M2 512GB Space Gray</string>
+    <string name="macbook2_price">$1699</string>
+    <string name="macbook3_name">MacBook Pro M1 1TB Silver</string>
+    <string name="macbook3_price">$1999</string>
+    <string name="macbook4_name">MacBook Air M1 256GB Gold</string>
+    <string name="macbook4_price">$999</string>
+    <string name="macbook5_name">MacBook Pro 16-inch M2 Max</string>
+    <string name="macbook5_price">$3499</string>
+    <string name="macbook6_name">MacBook Air 15-inch M2</string>
+    <string name="macbook6_price">$1299</string>
+    <string name="macbook7_name">MacBook Pro 14-inch M1 Pro</string>
+    <string name="macbook7_price">$2499</string>
+    <string name="macbook8_name">MacBook Pro 13-inch M2</string>
+    <string name="macbook8_price">$1499</string>
+    <string name="macbook9_name">MacBook Air 13-inch M1</string>
+    <string name="macbook9_price">$899</string>
+    <string name="macbook10_name">MacBook Pro 15-inch Intel</string>
+    <string name="macbook10_price">$2199</string>
+
+    <!-- Smart Watches -->
+    <string name="watch1_name">Apple Watch Series 8 GPS 45mm</string>
+    <string name="watch1_price">$429</string>
+    <string name="watch2_name">Samsung Galaxy Watch 5 Pro</string>
+    <string name="watch2_price">$449</string>
+    <string name="watch3_name">Garmin Fenix 7X Solar</string>
+    <string name="watch3_price">$899</string>
+    <string name="watch4_name">Fitbit Versa 4</string>
+    <string name="watch4_price">$229</string>
+
+    <!-- Headsets -->
+    <string name="headset1_name">Sony WH-1000XM5</string>
+    <string name="headset1_price">$399</string>
+    <string name="headset2_name">Bose QuietComfort 45</string>
+    <string name="headset2_price">$329</string>
+    <string name="headset3_name">Apple AirPods Max</string>
+    <string name="headset3_price">$549</string>
+    <string name="headset4_name">JBL Live 660NC</string>
+    <string name="headset4_price">$199</string>
+    <!-- Cameras -->
+    <string name="camera1_name">Canon EOS R5</string>
+    <string name="camera1_price">$3899</string>
+    <string name="camera2_name">Sony Alpha a7 IV</string>
+    <string name="camera2_price">$2499</string>
+    <string name="camera3_name">Nikon Z9</string>
+    <string name="camera3_price">$5499</string>
+    <string name="camera4_name">Fujifilm X-T5</string>
+    <string name="camera4_price">$1699</string>
+    <string name="camera5_name">Panasonic Lumix GH6</string>
+    <string name="camera5_price">$2199</string>
+
+    <!-- Tablets -->
+    <string name="tablet1_name">Apple iPad Pro 12.9-inch 256GB</string>
+    <string name="tablet1_price">$1099</string>
+    <string name="tablet2_name">Samsung Galaxy Tab S8 Ultra</string>
+    <string name="tablet2_price">$1199</string>
+    <string name="tablet3_name">Microsoft Surface Pro 9</string>
+    <string name="tablet3_price">$1299</string>
+    <string name="tablet4_name">Lenovo Tab P12 Pro</string>
+    <string name="tablet4_price">$899</string>
+    <string name="tablet5_name">Huawei MatePad Pro</string>
+    <string name="tablet5_price">$799</string>
+
+</resources>
